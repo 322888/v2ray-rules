@@ -1,10 +1,12 @@
 [
   {
-    "remarks": "AI-US",
-    "enabled": true,
-    "routingType": "Routing",
-    "outboundTag": "us美国01",
-    "domain": [
+    "Remarks": "AI-US",
+    "Enabled": true,
+    "RuleType": 1,
+    "OutboundTag": "🇺🇸美国01",
+    "Port": "",
+    "Network": "",
+    "Domain": [
       "openai.com",
       "chatgpt.com",
       "oaistatic.com",
@@ -16,12 +18,6 @@
       "gstatic.com",
       "deepmind.com",
       "generativelanguage.googleapis.com"
-    ],
-    "ip": [],
-    "port": "",
-    "protocol": [],
-    "inboundTag": [],
-    "network": "",
-    "process": []
+    ]
   }
 ]
