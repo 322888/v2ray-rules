@@ -1,1 +1,0 @@
-AI-US,Routing,us美国01,,,,,openai.com|chatgpt.com|oaistatic.com|oaiusercontent.com|auth0.openai.com|cdn.auth0.com|gemini.google.com|googleapis.com|gstatic.com|deepmind.com|generativelanguage.googleapis.com
