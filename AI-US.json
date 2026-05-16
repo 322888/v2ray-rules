@@ -1,6 +1,7 @@
 [
   {
     "remarks": "AI-US",
+    "enabled": true,
     "routingType": "Routing",
     "outboundTag": "us美国01",
     "domain": [
@@ -15,6 +16,12 @@
       "gstatic.com",
       "deepmind.com",
       "generativelanguage.googleapis.com"
-    ]
+    ],
+    "ip": [],
+    "port": "",
+    "protocol": [],
+    "inboundTag": [],
+    "network": "",
+    "process": []
   }
 ]
